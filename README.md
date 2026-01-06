@@ -1,5 +1,6 @@
 https://badge.mediaplus.ma/greenbinary/afennoun
-
+[![afennoun's 42 stats](https://badge.mediaplus.ma/greenbinary/afennoun)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/afennoun" alt="afennoun's 42 stats" /></a>
 # Hi there👋
 
 ### 🚀 Aspiring Full Stack Developer & Cybersecurity Enthusiast
