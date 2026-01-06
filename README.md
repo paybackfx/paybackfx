@@ -1,12 +1,25 @@
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/afennoun" alt="afennoun's 42 stats" /></a>
-# Hi there👋
+<div align="center">
 
-### 🚀 Aspiring Full Stack Developer & Cybersecurity Enthusiast
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/greenbinary/afennoun" alt="afennoun's 42 stats" />
+  </a>
+
+  # Hi there 👋
+
+  ### 🚀 Aspiring Full Stack Developer & Cybersecurity Enthusiast
+
+  <p>
+    <em>Student at 1337 (42 Network) | Co-founder @ Leetswitch</em>
+  </p>
+
+</div>
+
+---
 
 I am currently a student at **1337 (42 Network)**, transitioning into the world of software engineering with a strong focus on system programming and security. I love building tools that automate tasks and solve real-world problems.
 
 - 🔭 **I’m currently working on**:
-  - **Leetswitch**: A startup project aimed at IT automation services.
+  - **[Leetswitch](https://leetswitch.com)**: A startup project aimed at IT automation services.
   - A **Google Review Automation** tool to streamline reputation management.
 
 - 🌱 **I’m currently learning**:
@@ -23,7 +36,7 @@ I am currently a student at **1337 (42 Network)**, transitioning into the world 
 
 ### 🛠 Languages and Tools
 
-<p align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,13 +46,18 @@ I am currently a student at **1337 (42 Network)**, transitioning into the world 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afennoun&show_icons=true&theme=radical&count_private=true" alt="Afennoun's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afennoun&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 ---
 
 ### 📫 Connect with me
