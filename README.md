@@ -51,6 +51,7 @@ I am currently a student at **1337 (42 Network)**, transitioning into the world 
 ---
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67565289ecc889bb0d5e4c9f?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/tall/67565289ecc889bb0d5e4c9f?variant=dark)](https://roadmap.sh)
 
 ### 📫 Connect with me
 
