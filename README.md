@@ -50,15 +50,7 @@ I am currently a student at **1337 (42 Network)**, transitioning into the world 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afennoun&show_icons=true&theme=radical&count_private=true" alt="Afennoun's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afennoun&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67565289ecc889bb0d5e4c9f?variant=dark" alt="roadmap.sh"/></a>
 
 ### 📫 Connect with me
 
